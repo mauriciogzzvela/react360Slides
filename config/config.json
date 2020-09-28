@@ -1,0 +1,29 @@
+{
+    "scenes": [
+      {
+        "id": 1,
+        "title": "Inicio",
+        "subtitle": "Este es el Home",
+        "image": "out.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Primer Slide",
+        "subtitle": "Esta es la primera diapositiva",
+        "image": "house.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Segundo Slide",
+        "subtitle": "Esta es la segunda diapositiva",
+        "image": "office.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Tercer Slide",
+        "subtitle": "Esta es la tercera diapositiva",
+        "image": "place.jpg"
+      }
+    ]
+  }
+  
