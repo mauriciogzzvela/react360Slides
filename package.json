@@ -1,9 +1,9 @@
 {
-  "name": "Hello360",
+  "name": "react360Slides",
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "start": "node node_modules/react-360/scripts/packager.js",
+    "start": "node build/index.html",
     "bundle": "node node_modules/react-360/scripts/bundle.js",
     "open": "node -e \"require('xopen')('http://localhost:8081/index.html')\"",
     "devtools": "react-devtools",
